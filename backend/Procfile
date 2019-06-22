@@ -1,0 +1,1 @@
+web: waitress-serve --port=$PORT wax_ar_5013.wsgi:application
